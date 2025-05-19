@@ -1,0 +1,19 @@
+html,body{
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.list_btn{
+    text-decoration: none;
+    border: 1px solid yellowgreen;
+    border-radius: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:black;
+    background-color: yellow;
+}
+
+.item-list a{
+    text-decoration: none;
+   
+}
